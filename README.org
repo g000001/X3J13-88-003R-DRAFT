@@ -1,0 +1,4 @@
+X3J13 88-003R (DRAFT)
+X3J13 88-003R?のドラフト。MOPの部分
+http://www.saildart.org/prog/LSP/CLS_LSP/.html/000571?570,95910
+のTeXの原稿をorgに手作りで変換。
